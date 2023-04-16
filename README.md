@@ -108,40 +108,40 @@
 # Other Related Methods
 | year        | title       | venue       | paper       | code        |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2019|AAAA|TTTT|[link]()|[link]()|
-|2019|AAAA|TTTT|[link]()|[link]()|
-|2019|AAAA|TTTT|[link]()|[link]()|
-|2016|AAAA|TTTT|[link]()|[link]()|
-|2016|AAAA|TTTT|[link]()|[link]()|
-|2015|AAAA|TTTT|[link]()|[link]()|
-|2014|AAAA|TTTT|[link]()|[link]()|
+|2022|Deep linear graph attention model for attributed graph clustering|Knowl Based Syst|[link](https://doi.org/10.1016/j.knosys.2022.108665)|-|
+|2022|Scalable Deep Graph Clustering with Random-walk based Self-supervised Learning|WWW|[link](https://arxiv.org/pdf/2112.15530)|-|
+|2022|X-GOAL: Multiplex Heterogeneous Graph Prototypical Contrastive Learning (X-GOAL)|arXiv|[link](https://arxiv.org/pdf/2109.03560)|-|
+|2022|Deep Graph Clustering with Multi-Level Subspace Fusion|PR|[link](https://doi.org/10.1016/j.patcog.2022.109077)|-|
+|2022|GRACE: A General Graph Convolution Framework for Attributed Graph Clustering|TKDD|[link](https://dl.acm.org/doi/pdf/10.1145/3544977)|[link](https://github.com/BarakeelFanseu/GRACE)|
+|2022|Fine-grained Attributed Graph Clustering|SDM|[link](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.42)|[link](https://github.com/sckangz/FGC)|
+|2022|Multi-view graph embedding clustering network: Joint self-supervision and block diagonal representation|NN|[link](https://www.sciencedirect.com/science/article/pii/S089360802100397X?via%3Dihub)|[link](https://github.com/xdweixia/NN-2022-MVGC)|
+|2022|SAGES: Scalable Attributed Graph Embedding with Sampling for Unsupervised Learning|TKDE|[link](https://ieeexplore.ieee.org/abstract/document/9705119)|-|
+|2022|Automated Self-Supervised Learning For Graphs|ICLR|[link](https://openreview.net/forum?id=rFbR4Fv-D6-)|[link](https://github.com/ChandlerBang/AutoSSL)|
+|2022|Stationary diffusion state neural estimation for multi-view clustering|AAAI|[link](https://arxiv.org/abs/2112.01334)|[link](https://github.com/kunzhan/SDSNE)|
+|2021|Simple Spectral Graph Convolution|ICLR|[link](https://openreview.net/pdf?id=CYO5T-YjWZV)|[link](https://github.com/allenhaozhu/SSGC)|
+|2021|Spectral embedding network for attributed graph clustering (SENet)|NN|[link](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002227)|-|
+|2021|Smoothness Sensor: Adaptive Smoothness Transition Graph Convolutions for Attributed Graph Clustering|TCYB|[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9514513)|[link](https://github.com/aI-area/NASGC)|
+|2021|Multi-view Attributed Graph Clustering|TKDE|[link](https://www.researchgate.net/profile/Zhao-Kang-6/publication/353747180_Multi-view_Attributed_Graph_Clustering/links/612059cd0c2bfa282a5cd55e/Multi-view-Attributed-Graph-Clustering.pdf)|[link](https://github.com/sckangz/MAGC)|
+|2021|High-order Deep Multiplex Infomax|WWW|[link](https://arxiv.org/abs/2102.07810)|[link](https://github.com/baoyujing/HDMI)|
+|2021|Graph InfoClust: Maximizing Coarse-Grain Mutual Information in Graphs|PAKDD|[link](https://link.springer.com/chapter/10.1007%2F978-3-030-75762-5_43)|[link](https://github.com/cmavro/Graph-InfoClust-GIC)|
+|2021|Graph Filter-based Multi-view Attributed Graph Clustering|IJCAI|[link](https://www.ijcai.org/proceedings/2021/0375.pdf)|[link](https://github.com/sckangz/MvAGC)|
+|2021|Graph-MVP: Multi-View Prototypical Contrastive Learning for Multiplex Graphs|arXiv|[link](https://arxiv.org/abs/2109.03560)|[link](https://github.com/chao1224/GraphMVP)|
+|2021|Contrastive Laplacian Eigenmaps|NeurIPS|[link](https://proceedings.neurips.cc/paper/2021/file/2d1b2a5ff364606ff041650887723470-Paper.pdf)|[link](https://github.com/allenhaozhu/COLES)|
+|2020|Cluster-Aware Graph Neural Networks for Unsupervised Graph Representation Learning|arXiv|[link](https://arxiv.org/abs/2009.01674)|-|
+|2020|Distribution-induced Bidirectional GAN for Graph Representation Learning|CVPR|[link](https://arxiv.org/pdf/1912.01899)|[link](https://github.com/SsGood/DBGAN)|
+|2020|Adaptive Graph Converlutional Network with Attention Graph Clustering for Co saliency Detection|CVPR|[link](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Adaptive_Graph_Convolutional_Network_With_Attention_Graph_Clustering_for_Co-Saliency_CVPR_2020_paper.pdf)|[link](https://github.com/ltp1995/GCAGC-CVPR2020)|
+|2020|Spectral Clustering with Graph Neural Networks for Graph Pooling (MinCutPool)|ICML|[link](http://proceedings.mlr.press/v119/bianchi20a/bianchi20a.pdf)|[link](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)|
+|2020|MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding|WWW|[link](https://arxiv.org/abs/2002.01680)|[link](https://github.com/cynricfu/MAGNN)|
+|2020|Unsupervised Attributed Multiplex Network Embedding|AAAI|[link](https://arxiv.org/abs/1911.06750)|[link](https://github.com/pcy1302/DMGI)|
+|2020|Cross-Graph: Robust and Unsupervised Embedding for Attributed Graphs with Corrupted Structure|ICDM|[link](https://ieeexplore.ieee.org/document/9338269)|[link](https://github.com/FakeTibbers/Cross-Graph)|
+|2020|Multi-class imbalanced graph convolutional network learning|IJCAI|[link](https://www.ijcai.org/proceedings/2020/0398.pdf)|-|
+|2020|CAGNN: Cluster-Aware Graph Neural Networks for Unsupervised Graph Representation Learning|arXiv|[link](http://arxiv.org/abs/2009.01674)|-|
+|2020|Attributed Graph Clustering via Deep Adaptive Graph Maximization|ICCKE|[link](https://ieeexplore-ieee-org-s.nudtproxy.yitlink.com/stamp/stamp.jsp?tp=&arnumber=9303694)|-|
+|2019|Heterogeneous Graph Attention Network (HAN)|Heterogeneous Graph Attention Network (HAN)|[link](https://arxiv.org/pdf/1903.07293.pdf)|[link](https://github.com/Jhy1993/HAN)|
+|2019|Multi-view Consensus Graph Clustering|TIP|[link](https://ieeexplore.ieee.org/abstract/document/8501973)|[link](https://github.com/kunzhan/MCGC)|
+|2019|Attributed Graph Clustering via Adaptive Graph Convolution (AGC)|TTTT|[link](https://www.ijcai.org/Proceedings/2019/0601.pdf)|[link](https://github.com/karenlatong/AGC-master)|
+|2016|node2vec: Scalable Feature Learning for Networks (node2vec)|SIGKDD|[link](https://dl.acm.org/doi/abs/10.1145/2939672.2939754?casa_token=jt4dhGo-tKEAAAAA:lhscLc-u0XZFYYyi48kXK3_vtYR-PffsbbMRZdtpbaprcB1FGyjWH1RvstHACYALyZ9OtUf2nv_FjQ)|[link](http://snap.stanford.edu/node2vec/)|
+|2016|Variational Graph Auto-Encoders (GAE)|NeurIPS Workshop|[link](https://ieeexplore.ieee.org/abstract/document/9046288)|[link](https://github.com/tkipf/gae)|
+|2015|LINE: Large-scale Information Network Embedding (LINE)|WWW|[link](https://dl.acm.org/doi/pdf/10.1145/2736277.2741093?casa_token=ahQ9yUhknkAAAAAA:lP6rusbODmZ1ZpGxF-cIiiopMiAA8Q4I02cBBbfE5dc8-NQpiPOdV0cv4-43lA9CkTXU4mPei39UDg)|[link](https://github.com/tangjianpku/LINE)|
+|2014|DeepWalk: Online Learning of Social Representations (DeepWalk)|SIGKDD|[link](https://dl.acm.org/doi/pdf/10.1145/2623330.2623732?casa_token=x6Gui_HExYoAAAAA:mzfm0BH0rSX7qcQV2WJ6uTSsg7zjnPalmOQ8sQuoJrwXfh9fcDgVPgXb-APCLGk1qWsPpIkBhI61pw)|[link](https://github.com/phanein/deepwalk)|
 
