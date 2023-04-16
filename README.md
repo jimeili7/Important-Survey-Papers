@@ -64,27 +64,27 @@
 # Contrastive Deep Graph Clustering
 | year        | title       | venue       | paper       | code        |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |
-|2023|AAAA|TTTT|[link]()|[link]()|
-|2023|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
-|2020|AAAA|TTTT|[link]()|[link]()|
+|2023|Hard Sample Aware Network for Contrastive Deep Graph Clustering (HSAN)|AAAI|[link](https://arxiv.org/abs/2212.08665)|[link](https://github.com/yueliu1999/HSAN)|
+|2023|Cluster-guided Contrastive Graph Clustering Network (CCGC)|AAAI|[link](https://arxiv.org/abs/2301.01098)|[link](https://github.com/xihongyang1999/CCGC)|
+|2022|NCAGC: A Neighborhood Contrast Framework for Attributed Graph Clustering (NCAGC)|arXiv|[link](https://arxiv.org/abs/2206.07897)|[link](https://github.com/wangtong627/Dual-Contrastive-Attributed-Graph-Clustering-Network)|
+|2022|Simple Contrastive Graph Clustering (SCGC)|arXiv|[link](https://arxiv.org/abs/2205.07865)|-|
+|2022|SCGC : Self-Supervised Contrastive Graph Clustering (SCGC)|arXiv|[link](https://arxiv.org/pdf/2204.12656)|[link](https://github.com/gayanku/SCGC)|
+|2022|Improved Dual Correlation Reduction Network (IDCRN)|arXiv|[link](https://arxiv.org/abs/2202.12533)|-|
+|2022|S3GC: Scalable Self-Supervised Graph Clustering (S3GC)|NeurIPS|[link](https://openreview.net/forum?id=ldl2V3vLZ5)|[link](https://github.com/devvrit/S3GC)|
+|2022|Self-consistent Contrastive Attributed Graph Clustering with Pseudo-label Prompt (SCAGC)|TMM|[link](https://arxiv.org/abs/2110.08264)|[link](https://github.com/xdweixia/SCAGC)|
+|2022|CGC: Contrastive Graph Clustering for Community Detection and Tracking (CGC)|WWW|[link](https://arxiv.org/abs/2204.08504)|-|
+|2022|Towards Unsupervised Deep Graph Structure Learning (SUBLIME)|WWW|[link](https://arxiv.org/pdf/2201.06367.pdf)|[link](https://github.com/GRAND-Lab/SUBLIME)|
+|2022|Attributed Graph Clustering with Dual Redundancy Reduction (AGC-DRR)|IJCAI|[link](https://www.ijcai.org/proceedings/2022/0418.pdf)|[link](https://github.com/gongleii/AGC-DRR)|
+|2022|Deep Graph Clustering via Dual Correlation Reduction (DCRN)|AAAI|[link](https://www.aaai.org/AAAI22Papers/AAAI-5928.LiuY.pdf)|[link](https://github.com/yueliu1999/DCRN)|
+|2022|RepBin: Constraint-Based Graph Representation Learning for Metagenomic Binning (RepBin)|AAAI|[link](https://www.aaai.org/AAAI22Papers/AAAI-4979.XueH.pdf)|[link](https://github.com/xuehansheng/RepBin)|
+|2022|Augmentation-Free Self-Supervised Learning on Graphs (AFGRL)|AAAI|[link](https://arxiv.org/pdf/2112.02472)|[link](https://github.com/Namkyeong/AFGRL)|
+|2022|SAIL: Self-Augmented Graph Contrastive Learning (SAIL)|AAAI|[link](https://arxiv.org/abs/2009.00934)|-|
+|2021|Graph Debiased Contrastive Learning with Joint Representation Clustering (GDCL)|IJCAI|[link](https://www.ijcai.org/proceedings/2021/0473.pdf)|[link](https://github.com/hzhao98/GDCL)|
+|2021|Multi-view Contrastive Graph Clustering (MCGC)|NeurIPS|[link](https://papers.nips.cc/paper/2021/file/10c66082c124f8afe3df4886f5e516e0-Paper.pdf)|[link](https://github.com/panern/mcgc)|
+|2021|Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning (HeCo)|SIGKDD|[link](https://dl.acm.org/doi/10.1145/3447548.3467415)|[link](https://github.com/liun-online/HeCo)|
+|2020|Adaptive Graph Encoder for Attributed Graph Embedding (AGE)|SIGKDD|[link](https://arxiv.org/pdf/2007.01594)|[link](https://github.com/thunlp/AGE)|
+|2020|CommDGI: Community Detection Oriented Deep Graph Infomax (CommDGI)|CIKM|[link](https://dl.acm.org/doi/abs/10.1145/3340531.3412042)|[link](https://github.com/FDUDSDE/CommDGI)|
+|2020|Contrastive Multi-View Representation Learning on Graphs (MVGRL)|ICML|[link](http://proceedings.mlr.press/v119/hassani20a/hassani20a.pdf)|[link](https://github.com/kavehhassani/mvgrl)|
 
 
 
