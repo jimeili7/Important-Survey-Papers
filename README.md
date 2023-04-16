@@ -48,9 +48,14 @@
 |2016|Deep Neural Networks for Learning Graph Representations (DNGR)|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/download/10179/10038)|[link](https://github.com/ShelsonCao/DNGR)|
 |2015|Heterogeneous Network Embedding via Deep Architectures (HNE)|SIGKDD|[link](https://dl.acm.org/doi/pdf/10.1145/2783258.2783296?casa_token=HCfko1SoHs0AAAAA:e5B7ZeoGp2DcuT5kj8KwnghRnMyQhoGhWhDEQoSCI6CkuhtIGshlvZzjLQT2c0LHO8R2jo_4KkVOuQ)|-|
 |2014|Learning Deep Representations for Graph Clustering (GraphEncoder)|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/view/8916/8775)|[link](https://github.com/quinngroup/deep-representations-clustering)|
-|2020| |TTTT|[link]( )|[link]( )|
-|2020| |TTTT|[link]( )|[link]( )|
-|2020| |TTTT|[link]( )|[link]( )|
-|2020| |TTTT|[link]( )|[link]( )|
-|2020| |TTTT|[link]( )|[link]( )|
+
+# Adversarial Deep Graph Clustering
+|2022|Unsupervised network embedding beyond homophily (SELENE)|TMLR|[link](https://orbilu.uni.lu/bitstream/10993/53475/1/TMLR22b.pdf)|[link](https://github.com/zhiqiangzhongddu/SELENE)|
+|2021|Wasserstein Adversarially Regularized Graph Autoencoder|arXiv|[link](https://arxiv.org/pdf/2111.04981)|[link](https://github.com/LeonResearch/WARGA)|
+|2020|JANE: Jointly adversarial network embedding (JANE)|IJCAI|[link](https://www.ijcai.org/Proceedings/2020/0192.pdf)|-|
+|2019|Adversarial Graph Embedding for Ensemble Clustering (AGAE)|IJCAI|[link](https://par.nsf.gov/servlets/purl/10113653)|-|
+|2019|CommunityGAN: Community Detection with Generative Adversarial Nets (CommunityGAN)|WWW|[link](https://dl.acm.org/doi/abs/10.1145/3308558.3313564)|[link](https://github.com/SamJia/CommunityGAN)|
+|2019|ProGAN: Network embedding via proximity generative adversarial network (ProGAN)|SIGKDD|[link](https://dl.acm.org/doi/pdf/10.1145/3292500.3330866)|-|
+|2019|Learning Graph Embedding with Adversarial Training Methods (ARGA/ARVGA)|TCYB|[link](https://arxiv.org/pdf/1901.01250)|[link](https://github.com/GRAND-Lab/ARGA)|
+|2019|Adversarially Regularized Graph Autoencoder for Graph Embedding (ARGA/ARVGA)|IJCAI|[link](https://arxiv.org/pdf/1802.04407)|[link](https://github.com/GRAND-Lab/ARGA)|
 |2020| |TTTT|[link]( )|[link]( )|
