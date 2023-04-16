@@ -50,6 +50,8 @@
 |2014|Learning Deep Representations for Graph Clustering (GraphEncoder)|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/view/8916/8775)|[link](https://github.com/quinngroup/deep-representations-clustering)|
 
 # Adversarial Deep Graph Clustering
+| year        | title       | venue       | paper       | code        |
+| :---        |    :----:   |    :----:   |    :----:   |    :----:   |
 |2022|Unsupervised network embedding beyond homophily (SELENE)|TMLR|[link](https://orbilu.uni.lu/bitstream/10993/53475/1/TMLR22b.pdf)|[link](https://github.com/zhiqiangzhongddu/SELENE)|
 |2021|Wasserstein Adversarially Regularized Graph Autoencoder|arXiv|[link](https://arxiv.org/pdf/2111.04981)|[link](https://github.com/LeonResearch/WARGA)|
 |2020|JANE: Jointly adversarial network embedding (JANE)|IJCAI|[link](https://www.ijcai.org/Proceedings/2020/0192.pdf)|-|
