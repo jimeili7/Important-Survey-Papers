@@ -91,16 +91,16 @@
 # Deep Clustering
 | year        | title       | venue       | paper       | code        |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |
-|2023|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2022|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2021|AAAA|TTTT|[link]()|[link]()|
-|2017|AAAA|TTTT|[link]()|[link]()|
-|2017|AAAA|TTTT|[link]()|[link]()|
-|2016|AAAA|TTTT|[link]()|[link]()|
+|2023|Scalable Attributed-Graph Subspace Clustering (SASGC)|Scalable Attributed-Graph Subspace Clustering (SASGC)|[link](https://chakib401.github.io/files/SAGSC.pdf)|[link](https://github.com/chakib401/sagsc)|
+|2022|	Adaptive Attribute and Structure Subspace Clustering Network (AASSC-Net)|TIP|[link](https://ieeexplore.ieee.org/iel7/83/9626658/09769915.pdf)|[link](https://github.com/ZhihaoPENG-CityU/TIP22---AASSC-Net)|
+|2022|Twin Contrastive Learning for Online Clustering|IJCV|[link](http://pengxi.me/wp-content/uploads/2022/07/Twin-Contrastive-Learning-for-Online-Clustering.pdf)|[link](https://github.com/Yunfan-Li/Twin-Contrastive-Learning)|
+|2022|Non-Graph Data Clustering via O(n) Bipartite Graph Convolution|TPAMI|[link](https://ieeexplore.ieee.org/abstract/document/9996549)|[link](https://github.com/hyzhang98/AnchorGAE-torch)|
+|2022|Ada-nets: Face clustering via adaptive neighbor discovery in the structure space|ICLR|[link](https://arxiv.org/pdf/2202.03800)|[link](https://github.com/damo-cv/Ada-NETS)|
+|2021|Adaptive Graph Auto-Encoder for General Data Clustering|TPAMI|[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9606581)|[link](https://github.com/hyzhang98/AdaGAE)|
+|2021|Contrastive Clustering|AAAI|[link](https://arxiv.org/pdf/2009.09687.pdf)|[link](https://github.com/Yunfan-Li/Contrastive-Clustering)|
+|2017|Towards k-means-friendly spaces: Simultaneous deep learning and clustering (DCN)|ICML|[link](http://proceedings.mlr.press/v70/yang17b/yang17b.pdf)|[link](https://github.com/boyangumn/DCN)|
+|2017|Improved Deep Embedded Clustering with Local Structure Preservation (IDEC)|IJCAI|[link](https://www.researchgate.net/profile/Xifeng-Guo/publication/317095655_Improved_Deep_Embedded_Clustering_with_Local_Structure_Preservation/links/59263224458515e3d4537edc/Improved-Deep-Embedded-Clustering-with-Local-Structure-Preservation.pdf)|[link](https://github.com/XifengGuo/IDEC)|
+|2016|	Unsupervised Deep Embedding for Clustering Analysis (DEC)|ICML|[link](http://proceedings.mlr.press/v48/xieb16.pdf)|[link](https://github.com/piiswrong/dec)|
 
 
 
