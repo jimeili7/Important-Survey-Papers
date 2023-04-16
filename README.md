@@ -60,4 +60,88 @@
 |2019|ProGAN: Network embedding via proximity generative adversarial network (ProGAN)|SIGKDD|[link](https://dl.acm.org/doi/pdf/10.1145/3292500.3330866)|-|
 |2019|Learning Graph Embedding with Adversarial Training Methods (ARGA/ARVGA)|TCYB|[link](https://arxiv.org/pdf/1901.01250)|[link](https://github.com/GRAND-Lab/ARGA)|
 |2019|Adversarially Regularized Graph Autoencoder for Graph Embedding (ARGA/ARVGA)|IJCAI|[link](https://arxiv.org/pdf/1802.04407)|[link](https://github.com/GRAND-Lab/ARGA)|
-|2020| |TTTT|[link]( )|[link]( )|
+
+# Contrastive Deep Graph Clustering
+| year        | title       | venue       | paper       | code        |
+| :---        |    :----:   |    :----:   |    :----:   |    :----:   |
+|2023|AAAA|TTTT|[link]()|[link]()|
+|2023|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+
+
+
+# Deep Clustering
+| year        | title       | venue       | paper       | code        |
+| :---        |    :----:   |    :----:   |    :----:   |    :----:   |
+|2023|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2017|AAAA|TTTT|[link]()|[link]()|
+|2017|AAAA|TTTT|[link]()|[link]()|
+|2016|AAAA|TTTT|[link]()|[link]()|
+
+
+
+
+# Other Related Methods
+| year        | title       | venue       | paper       | code        |
+| :---        |    :----:   |    :----:   |    :----:   |    :----:   |
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2022|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2021|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2020|AAAA|TTTT|[link]()|[link]()|
+|2019|AAAA|TTTT|[link]()|[link]()|
+|2019|AAAA|TTTT|[link]()|[link]()|
+|2019|AAAA|TTTT|[link]()|[link]()|
+|2016|AAAA|TTTT|[link]()|[link]()|
+|2016|AAAA|TTTT|[link]()|[link]()|
+|2015|AAAA|TTTT|[link]()|[link]()|
+|2014|AAAA|TTTT|[link]()|[link]()|
+
